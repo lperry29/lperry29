@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lperry29
+- 👀 I’m interested in computer engineering as a future career
+- 🌱 I’m currently learning Java & C+
+- 📫 I can be reached at liamperry810@gmail.com
+- 😄 Pronouns: He/Him
